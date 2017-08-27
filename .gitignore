@@ -1,0 +1,6 @@
+# Ignore all audio files
+*.wav
+*.flac
+
+# Ignore all log files
+*.txt
