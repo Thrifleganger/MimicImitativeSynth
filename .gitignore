@@ -1,6 +1,9 @@
+#Ignore mac junk files
+.DS_Store
+
 # Ignore all audio files
-*.wav
-*.flac
+/*.wav
+/*.flac
 
 # Ignore all log files
 *.txt
